@@ -1,23 +1,18 @@
+Todo App
+        This repository houses a simple and intuitive To-Do App designed to help users manage tasks effectively.
+        The app offers a clean interface for adding, editing, and marking tasks as complete, ensuring a streamlined 
+        task management experience.
 
-Certainly! Here's a brief description you can use for the README.md file in your GitHub repository for an IPL (Indian Premier League) team management project:
-
-IPL Team Management System
-
-This repository contains a comprehensive IPL Team Management System developed as part of [IPL Cricket League].
-The system provides a platform for managing various aspects of an IPL team, including player information, team statistics, match schedules, and more.
-
-
-Features : - 
-        Player Management:Easily add, update, and view player details including player profiles, performance statistics, and contract details.
-        Team Stats: Access and analyze team statistics, including past performance, win-loss records, and player averages.
-        Scouting and Recruitment: Manage scouting reports, talent assessment, and recruitment procedures for new players.
-        User Roles and Authentication: Support for multiple user roles with secure authentication to ensure data privacy.
-
+Features
+        Task Management: Add, edit, delete, and mark tasks as completed or pending.
+        Task Categories: Organize tasks by categories or labels for better organization.
+        Priority Levels: Assign priority levels to tasks for better task prioritization.
+        Due Dates: Set due dates or deadlines for tasks to ensure timely completion.
+        User-friendly Interface: Clean and intuitive design for seamless task management.
+        
 Technologies Used
-        Frontend: [List of frontend technologies used, e.g., React, HTML, CSS]
-        Backend: [List of backend technologies used, e.g., Node.js, Express, Mongoose, cors, body-parser, uuid, nodemon]
-        Database: [Database used, e.g., MongoDB]
-        Other Tools: [Axios, react-router-dom, ]
+        Frontend: [List of frontend technologies used, e.g., React,]
+        Other Tools: [uuid, react-router-dom]
 
 Setup Instructions: - 
        Clone the Repository: git clone <repository_URL>
