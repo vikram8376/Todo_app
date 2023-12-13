@@ -15,6 +15,6 @@ Technologies Used
         Other Tools: [uuid, react-router-dom]
 
 Setup Instructions: - 
-       Clone the Repository: git clone <repository_URL>
+       Clone the Repository: git clone <[repository_URL](https://github.com/vikram8376/Todo_app.git)>
        Install Dependencies: npm install
        Run the Application: npm start 
